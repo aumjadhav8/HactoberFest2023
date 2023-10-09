@@ -1,184 +1,50 @@
-# Welcome to the Hacktoberfest 2023 Repository!
+# Cloudthat-Aum-Jadhav
+![image](https://github.com/aumjadhav8/Cloudthat-Aum-Jadhav/assets/73793027/e33b944e-f6bd-4123-8156-f1b03bdbba51)
 
-![Hacktoberfest Logo](./assets/hacktoberfest_wall.png)
+<h1>About CloudThat’s Independence Day Challenge </h1>
 
-## Introduction
-## Guidelines:
+<p>The challenge focuses on Generative AI and requires participants to develop a responsive and creative web page using ChatGPT to convey an Independence Day message. The winning participant will be determined based on the most imaginative message and flawless code. Participants are free to use any programming language, but they must submit their code through a GitHub repository link.</p>
 
-- **No DELETING files** 
-- Your code doesn't have to be pretty
-- You have the freedom to use any programming language.
-- If there is no folder for the Programming Language YOU are using, please create a folder inside the **"HacktoberFest"** directory with the name of the language.
-- Enjoy the coding process!
+<h2 style="text-align: left;">About My Design</h2>
 
-Whether you're a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+<div style="text-align: left;">I recently began to learn Front-End Development. Since then It's really been a great journey learning from various resources, and <b> demonstrating my skills over here by building this project is really a great opportuinity</b>.<br> I have used HTML, CSS &amp; JavaScript. To build my project. It focuses over the responsiveness of the design. I have added various animations like the Confetti &amp; Smooth Scrolling Effect, to keep the user interaction as good as possible. <b>Coming up to the Design with its individual elements.</b>
 
-## What is Hacktoberfest?
+  <h3 style="text-align: left;">Background & Styles</h3>
+  <b>The webpage has a background of our Indian Tricolor, also I have implemented the style of Glassmorphism in the project.<br></b>
+  
+  <h3 style="text-align: left;">Favicon</h3>
+  
+  <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="font-weight: bold; margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhlpqQ3w2SzAhivHf0fMkrz5C7eKCOHjL2LuJx_K-_3c5QHTJvbJA28uvj-N4juA_nReajjHbwTNwxk_yub4vxpkhYKg5ZYUriAQdHIbunmqyNTU4KKqcU2v0PaUlljbK7NJ20LWGptmHfFUrz2Vf7ypAXO3XRJ8bwmcBAzMCA9MHSmM6ysLsoaEfqM52Al" style="margin-left: auto; margin-right: auto;"><img alt="" data-original-height="100%" data-original-width="100%" src="https://blogger.googleusercontent.com/img/a/AVvXsEhlpqQ3w2SzAhivHf0fMkrz5C7eKCOHjL2LuJx_K-_3c5QHTJvbJA28uvj-N4juA_nReajjHbwTNwxk_yub4vxpkhYKg5ZYUriAQdHIbunmqyNTU4KKqcU2v0PaUlljbK7NJ20LWGptmHfFUrz2Vf7ypAXO3XRJ8bwmcBAzMCA9MHSmM6ysLsoaEfqM52Al" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Favicon</td></tr></tbody></table>I have added an Indian Flag Favicon to the Web Page<br />
+  
+  <h3 style="text-align: left;">Rolling Text at Top</h3>
+  
+<div class="separator" style="clear: both; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEg6RoVKtTc2sYT6flSrM03EdCUE70CutmRUv4l8smsUtwnLseXXNSwLxF4Ya42H7fQ1jwMxp5uZXatfZuLnpCF8nJcwqH6OV6GqfYfkpLBWfqgVv38OPCH3i6rfF7VLQuCiwnkY_WIkZqWdNfdub-IOHOTmVeC-OqnPiosMF-fGnyU2afogXxwXKjjABr3H" style="margin-left: 1em; margin-right: 1em;"><img data-original-height="92" data-original-width="1906" src="https://blogger.googleusercontent.com/img/a/AVvXsEg6RoVKtTc2sYT6flSrM03EdCUE70CutmRUv4l8smsUtwnLseXXNSwLxF4Ya42H7fQ1jwMxp5uZXatfZuLnpCF8nJcwqH6OV6GqfYfkpLBWfqgVv38OPCH3i6rfF7VLQuCiwnkY_WIkZqWdNfdub-IOHOTmVeC-OqnPiosMF-fGnyU2afogXxwXKjjABr3H=s16000" /></a></div>
+Custom Made for the Competition<br>
 
-Hacktoberfest encourages participation in giving back to the open-source community by completing pull requests, participating in events, and donating to open source projects. In its 10th year, Hacktoberfest continues to grow and foster a vibrant open source community that we are all a part of.
 
-## How Does It Work?
+  <h3 style="text-align: left;">Hero Section</h3>
+<img data-original-height="949" data-original-width="1919" src="https://blogger.googleusercontent.com/img/a/AVvXsEiDy6EOTxCEwIgO_AzoAmoU5IQTLImUC3-Jf4quQbWhkfxh7Na3dPezM0xR9qZk-xIKMMHnGUzRoGbl0ZgnWyx0yGq5AxtcH2YSSq1NH6MYbo4_GYvXaAFnc7NrOsoXJGy7I8zYKvDsEn4L6MSZWHIaolflod5T7KVjLv-ri5V3cRQn3K2UOv0c5KgDucwU=s16000" />So the Hero Section Banner, as you can see is custom made for this event. I am a designer, I have added CloudThat's Logo to the Banner. <br />
 
-- First sign up on the Hacktoberfest site anytime between September 26 and October 31.
-- To qualify for digital swags, you must register and make four pull requests between October 1-31.
-- You can contribute to any public repository on GitHub, not just the ones highlighted.
-- If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
+<h3> Quotes Section</h3>
+For the Preview Please View over Google Drive :- https://drive.google.com/file/d/16yXvW2al5FrUnO5JA-y2C54VcJOAIc-P/preview <br>
+Here, We have our quotes by our great leaders. Every time you refresh page you will find a new quote for you !<br>
 
-## Rules
+  <h3 style="text-align: left;">Video Container with Description</h3>
+<img data-original-height="524" data-original-width="1765" src="https://blogger.googleusercontent.com/img/a/AVvXsEjPsg5ZYPfFLSGwF3odV7OSkEW17MD1z0eJ0WFnBrpGrEyH93FRkHj8O4QH5PYP-nWH3rWM9Nuf4ogrABczuVdi9ARx1ovfFfCduP0bsqytRbRV_Zmx-HsiLAh2x4r7m-_W-fdPYWNooaz_jbztdpUPtjPfGsFI-zzxKyScdfoNmMipUXQ_edZFeDU59R_B=s16000" />  
+The Video Represents Our India's Cultural Diversity ! with different kinds of festivals and different relgions in the video. The video belongs to Incredible India Youtube Channel. The description is a based on our unity.<br>
 
-To earn your tree reward, you must register and make four valid pull requests (PRs) between October 1-31 in any time zone. Pull requests can be made in any participating GitHub-hosted repositories/projects.
+  <h3 style="text-align: left;">Element having Unity Examples Cards</h3>
+  <img data-original-height="544" data-original-width="1778" src="https://blogger.googleusercontent.com/img/a/AVvXsEgTtiHncIaUkmIRLLIwBg6D-JB65Cgm7pcSF-b2KpC4gzxrtKgHGwqgk_0n6sf1wEXtHxUVQ1Ujbi_whKrTli0kjE70nZOnipS6deZ-MQAVPHJ4iPALNOXo2b8mf8EpMV0beEVKZyT2iHfXhgpHJYxE16riYsZL-NCz5_DQaxtx9sWFnusYsCqHSm191B6C=s16000" />
+  This element is purly based on CSS & keyframe animation properties.The section denotes where exactly and how we Indians are united though we have diversity.<br>
 
-## How Can I Contribute?
-
-Contributions aren't limited to code – we welcome contributions to documentation, design, translations, bug reports and more! If you're new to open source or interested in contributing, this repository is a great place to start. If you're an experienced open-source contributor, feel free to check out these issues and contribute.
-
-## Let's Get Started!
-
-Ready to contribute? Check out our Contribution Guide for information on how to get started.
-
-Happy Hacking!
-
-## First Contributions
-
-Welcome to the First Contributions project, designed to help beginners make their first open-source contribution. If you're new to this process, follow the steps below.
-
-_If you're not familiar with the command line, you can use [GUI tools](#tutorials-using-other-tools) to help you._
-
-![Fork this repository](https://firstcontributions.github.io/assets/Readme/fork.png)
-
-### Prerequisites
-
-Before you start, ensure you have [Git installed](https://help.github.com/articles/set-up-git/) on your machine.
-
-## Step 1: Fork this repository
-
-Begin by forking this repository. Click the "Fork" button at the top of this page. This action will create a copy of this repository in your GitHub account.
-
-## Step 2: Clone the repository
-
-![Clone this repository](https://firstcontributions.github.io/assets/Readme/clone.png)
-
-Next, clone your forked repository to your local machine. Go to your GitHub account, open the forked repository, click on the "Code" button, and then click the "Copy to clipboard" icon.
-
-Open your terminal and run the following command, replacing `"url you just copied"` with the copied URL:
-
-```shell
-git clone "url you just copied"
-```
-
-For example:
-
-```shell
-git clone https://github.com/your-username/first-contributions.git
-```
-
-## Step 3: Create a branch
-
-Change to the repository directory on your computer (if you are not already there):
-
-```shell
-cd first-contributions
-```
-
-Now, create a branch using the `git checkout` command:
-
-```shell
-git checkout -b your-new-branch-name
-```
-
-For example:
-
-```shell
-git checkout -b add-alonzo-church
-```
-
-## Step 4: Make necessary changes and commit them
-
-Open the `Contributors.md` file in a text editor and add your name to it. Don't add it at the beginning or end of the file; place it anywhere in between. Save the file.
-
-![Git Status](https://firstcontributions.github.io/assets/Readme/git-status.png)
-
-If you run the `git status` command in your project directory, you'll see there are changes. Add those changes to the branch you created using the `git add` command:
-
-```shell
-git add Contributors.md
-```
-
-Now commit those changes:
-
-```shell
-git commit -m "Add <your-name> to Contributors list"
-```
-
-Replace `<your-name>` with your name.
-
-## Step 5: Push your changes to GitHub
-
-Use the `git push` command to push your changes to GitHub:
-
-```shell
-git push origin -u <add-your-branch-name>
-```
-
-Replace `<add-your-branch-name>` with the name of the branch you created earlier.
-
-<details>
-
-<summary> <strong>If you encounter errors while pushing, click here:</strong> </summary>
-
-- ### Authentication Error
-
-  If you encounter an authentication error, it's because GitHub has removed support for password authentication. You need to use a personal access token instead. [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) can guide you through generating and configuring an SSH key for your account.
-
-</details>
-
-## Step 6: Submit your changes for review
-
-Go to your repository on GitHub, and you'll see a "Compare & pull request" button. Click on that button.
-
-![Create a pull request](https://firstcontributions.github.io/assets/Readme/compare-and-pull.png)
-
-Submit the pull request.
-
-![Submit pull request](https://firstcontributions.github.io/assets/Readme/submit-pull-request.png)
-
-You will receive a notification email once your changes have been merged.
-
-## What's next?
-
-Congratulations! You've completed the standard _fork -> clone -> edit -> pull request_ workflow for contributing. Celebrate your contribution and share it with friends and followers using the [web app](https://firstcontributions.github.io/#social-share).
-
-If you have questions or need help, you can join our Slack team: [Join Slack Team](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
-
-Now, let's get you started with contributing to other projects. We've compiled a list of projects with easy issues for newcomers. Check it out [here](https://firstcontributions.github.io/#project-list).
-
-
-## Merge Policy:
-I will merge all pull requests as quickly as possible, as long as they meet the project's requirements and guidelines and are Legit.
+  <h3 style="text-align: left;">Highlights from some Content Creators</h3>
+<img data-original-height="977" data-original-width="1915" src="https://blogger.googleusercontent.com/img/a/AVvXsEg5j3byLzFfBb9CVZ2OXoXKjmOgMit1ZKQn-FDtD7Sn3yA9HRlfAFp7M5VJ2FreHSNXgvSlrUjWuJXbhZ3QBByxXbBemlfqYnuLu5uOlNbL8KXaQSJlke_n8nZRGI4LvNnMC3b3PFQttI4G_GMmQKB2eqhfFulpq33V9lqiOfmxCVNAqV2sX6kh7ssGIt6w=s16000" />
 <br>
-Happy coding!
+<img data-original-height="977" data-original-width="1915" src="https://blogger.googleusercontent.com/img/a/AVvXsEgsuDSMsL8dLQhUI0_1G-V8xsBvzuFKe97Ux28lVdMOoP8aM-08HHIQw_x0rtBjWJcc-IpLC8nU1qPUWrvnIIFp_X1MTbANQMbDSe_t7mAIxgdY-vEv_rFF2qA_JRmkVwWiYJM9jDJk00rlwCI6HCd4E5cKPrb7kzY7yWFk3t2SdUN3O9YFui8YepCKAPn4=s16000" />
+In Highlights section I have included some videos from content creators who are representing our country in a very beautiful form in aspects of the Culture & Diversity. I would like to mention them @bhalovashi, @camerawalebhaiya, @shubhamtotu you can find them on Instagram<br>
+  
+  <h3 style="text-align: left;">Footer Section</h3>
+  <img data-original-height="99" data-original-width="1910" src="https://blogger.googleusercontent.com/img/a/AVvXsEgN7bQqtGokqHCK_IPFcGrDEaFScX1yuocL1QVfEpiqy2P-sdZVU-XnNNNWop6iEdfMnuj-209roHEnRmn6sGJG4NZrSCRy1ZQHyovzBtt0dSeuPAhnUXlZkr6RidD8WpbbouJJv4Vgu6LqKSSJAHm8opYUHBAY3pkrnrI-V0Ki06uHd5qMWAgI1_pKknu_=s16000" />
+  Lastly here I have added a beating heart icon, used from FontAwesome Library.<br>
 
-
-## Project Admin 😎:
-
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/Midway91"><img src="https://avatars.githubusercontent.com/u/99934396?v=4" width="100px;" alt=""/><br /><sub><b>Midway91</b></sub></a></td>
-  </tr>
-</table>
-
-## Project Contributors ⭐:
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/Midway91/HactoberFest2023/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=Midway91/HactoberFest2023" /> 
-</a>
-
-
-***
-<h2 align="center">
-    <p>
-        Thank You
-    </p>
-</h2>
+  <h1>This project is only made for CloudThat's Independence Day Challenge </h1><b>Please Do Not use this project for your personal uses like adding in reseume's, do learn from the project but also pay attention for the creators hardwork.</b>
